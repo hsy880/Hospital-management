@@ -1,0 +1,6 @@
+C:\Users\ALGAZAR\Desktop\finish\finish\x64\Debug\finish.vcxproj.AssemblyReference.cache
+C:\Users\ALGAZAR\Desktop\finish\finish\x64\Debug\finish.MyForm.resources
+C:\Users\ALGAZAR\Desktop\finish\finish\x64\Debug\finish.vcxproj.GenerateResource.cache
+D:\هشام\second\second term\project\finish\finish\x64\Debug\finish.vcxproj.AssemblyReference.cache
+D:\هشام\second\second term\project\finish\finish\x64\Debug\finish.MyForm.resources
+D:\هشام\second\second term\project\finish\finish\x64\Debug\finish.vcxproj.GenerateResource.cache
